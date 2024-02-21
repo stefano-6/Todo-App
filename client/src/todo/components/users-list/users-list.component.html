@@ -1,0 +1,3 @@
+<mat-selection-list class="scrollable" #user [multiple]="false">
+    <mat-list-option *ngFor="let user of users$ | async; let i = index" [selected]="(selectedUser$ | async) == user.id" (click)="onSelect(user.id)">{{ user.name }}</mat-list-option>
+</mat-selection-list>

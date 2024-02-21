@@ -1,0 +1,32 @@
+h1 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.users-list-header-image {
+  background-image: url('../../../assets/images/multiple-users-silhouette.png');
+  background-size: cover;
+}
+
+.tasks-list-header-image {
+  background-image: url('../../../assets/images/to-do-list.png');
+  background-size: cover;
+}
+
+.todo-details-header-image {
+  background-image: url('../../../assets/images/search-file.png');
+  background-size: cover;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding-top: 30px;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.details-card {
+  width: 30%;
+}

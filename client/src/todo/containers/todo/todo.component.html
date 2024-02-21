@@ -1,0 +1,44 @@
+<h1>Todo App</h1>
+
+<mat-grid-list cols="2" rowHeight="2:1" gutterSize="3px">
+    <mat-grid-tile>
+        <mat-card class="card">
+            <mat-card-header>
+                <div mat-card-avatar class="users-list-header-image "></div>
+                <mat-card-title>Users</mat-card-title>
+                <mat-card-subtitle>List of Users</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+                <users-list [users$]="users$!" [selectedUser$]="selectedUser$!" (userSelectedEvent)="selectTasksByUser($event)"></users-list>
+            </mat-card-content>
+        </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile>
+        <mat-card class="card">
+            <mat-card-header>
+                <div mat-card-avatar class="tasks-list-header-image "></div>
+                <mat-card-title>Todo</mat-card-title>
+                <mat-card-subtitle>List of Tasks</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content class="card-content">
+                <todo-list [tasks$]="tasks$!" (taskSelectedEvent)="selectTaskById($event)"
+                    (addTaskEvent)="addNewTask()"></todo-list>
+            </mat-card-content>
+        </mat-card>
+    </mat-grid-tile>
+    <div *ngIf="showForm">
+        <mat-grid-tile colspan="2">
+            <mat-card class="card details-card">
+                <mat-card-header>
+                    <div mat-card-avatar class="todo-details-header-image"></div>
+                    <mat-card-title>Details</mat-card-title>
+                    <mat-card-subtitle>Task Details</mat-card-subtitle>
+                </mat-card-header>
+                <mat-card-content>
+                    <todo-details [users$]="users$!" [selectedTask$]="selectedTask$!" (saveEvent)="save($event)"
+                        (updateEvent)="update($event)" (deleteEvent)="delete($event)"></todo-details>
+                </mat-card-content>
+            </mat-card>
+        </mat-grid-tile>
+    </div>
+</mat-grid-list>

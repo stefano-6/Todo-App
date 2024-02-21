@@ -1,0 +1,13 @@
+.center {
+    display: block;
+    width: 100%;
+}
+
+mat-list-option {
+    text-align: center;
+}
+
+.scrollable {
+    height: 300px;
+    overflow-y: auto;
+}

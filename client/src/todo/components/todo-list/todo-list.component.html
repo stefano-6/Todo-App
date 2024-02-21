@@ -1,0 +1,8 @@
+<div class="container">
+    <button class="center" mat-stroked-button color="primary" (click)="addTodo()">Add Todo</button>
+</div>
+
+<mat-selection-list class="scrollable" #task [multiple]="false">
+    <mat-list-option *ngFor="let task of tasks$ | async; let i = index" [selected]="taskIdSelected == task.id"
+        (click)="onSelectTask(task.id)">{{ task.name }}</mat-list-option>
+</mat-selection-list>

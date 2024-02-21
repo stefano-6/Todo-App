@@ -1,0 +1,12 @@
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/bin/Debug/net6.0/Rockfast.ApiDatabase.deps.json
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/bin/Debug/net6.0/Rockfast.ApiDatabase.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/bin/Debug/net6.0/Rockfast.ApiDatabase.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.csproj.AssemblyReference.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.AssemblyInfoInputs.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.AssemblyInfo.cs
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.csproj.CoreCompileInputs.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/refint/Rockfast.ApiDatabase.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/Rockfast.ApiDatabase.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ApiDatabase/obj/Debug/net6.0/ref/Rockfast.ApiDatabase.dll

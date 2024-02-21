@@ -1,0 +1,17 @@
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.Dependencies.deps.json
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.Dependencies.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.Dependencies.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.ApiDatabase.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.ServiceInterfaces.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.ApiDatabase.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/bin/Debug/net6.0/Rockfast.ServiceInterfaces.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.csproj.AssemblyReference.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.AssemblyInfoInputs.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.AssemblyInfo.cs
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.csproj.CoreCompileInputs.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.csproj.CopyComplete
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/refint/Rockfast.Dependencies.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/Rockfast.Dependencies.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.Dependencies/obj/Debug/net6.0/ref/Rockfast.Dependencies.dll

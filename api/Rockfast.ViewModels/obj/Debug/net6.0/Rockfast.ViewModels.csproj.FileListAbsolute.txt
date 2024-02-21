@@ -1,0 +1,15 @@
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/bin/Debug/net6.0/Rockfast.ViewModels.deps.json
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/bin/Debug/net6.0/Rockfast.ViewModels.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/bin/Debug/net6.0/Rockfast.ViewModels.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/bin/Debug/net6.0/Rockfast.ApiDatabase.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/bin/Debug/net6.0/Rockfast.ApiDatabase.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.csproj.AssemblyReference.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.AssemblyInfoInputs.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.AssemblyInfo.cs
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.csproj.CoreCompileInputs.cache
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.csproj.CopyComplete
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/refint/Rockfast.ViewModels.dll
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/Rockfast.ViewModels.pdb
+/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ViewModels/obj/Debug/net6.0/ref/Rockfast.ViewModels.dll

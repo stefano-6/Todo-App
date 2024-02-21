@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGT8+IQ9n2DA3stZYYbiiQ9KC5yk6MCoZ1fvTZzWlD7sa8ldK+ri2sjsdh68zy6yurJH1pz+KyuAS5W2lzg5Wg==",
+  "success": true,
+  "projectFilePath": "/Users/stefanosalvi/Desktop/Test/Back End/TODO_Api/Rockfast.WebAPI/Rockfast.ServiceInterfaces/Rockfast.ServiceInterfaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/stefanosalvi/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/stefanosalvi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
